@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container {
+    font-weight: bold;
+}
+
+
+
