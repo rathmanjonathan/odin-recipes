@@ -1,17 +1,30 @@
 body {
-    background-color: aqua;
-}
+    background-color: black;
 
+}
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: blueviolet;
 }
 
-h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.container {
-    font-weight: bold;
+header {
+    color: white;
+    background-color:aqua;
 }
 
 
+ul li {
+    color: white;
+    background-color: blue;
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+
+ol li {
+    color: white;
+    background-color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
 
